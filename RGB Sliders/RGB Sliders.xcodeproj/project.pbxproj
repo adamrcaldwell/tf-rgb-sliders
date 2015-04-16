@@ -405,6 +405,7 @@
 				A3E6317C1AE0143900307AA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A3E6317D1AE0143900307AA9 /* Build configuration list for PBXNativeTarget "RGB SlidersTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				A3E6317F1AE0143900307AA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

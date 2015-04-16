@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FB2260D6-517F-49BC-9139-A863F1A9A6AD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RGB Sliders</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9C7C742B84D156E0A5E82E2AE7B34E77E46BA442</key>
+		<string>https://github.com/adamrcaldwell/tf-rgb-sliders.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RGB Sliders/RGB Sliders.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9C7C742B84D156E0A5E82E2AE7B34E77E46BA442</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/adamrcaldwell/tf-rgb-sliders.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9C7C742B84D156E0A5E82E2AE7B34E77E46BA442</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9C7C742B84D156E0A5E82E2AE7B34E77E46BA442</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tf-rgb-sliders</string>
+		</dict>
+	</array>
+</dict>
+</plist>
