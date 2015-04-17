@@ -53,7 +53,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <segue destination="6jj-Kl-78t" kind="show" id="5KB-2U-oXl"/>
+                                    <segue destination="6jj-Kl-78t" kind="show" identifier="openColor" id="5KB-2U-oXl"/>
                                 </connections>
                             </button>
                         </subviews>
